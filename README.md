@@ -1,4 +1,4 @@
-ShockRelief-App - An Web App for Monitory Electric Current Usage in your home!
+ShockRelief-App - An Web App for Monitoring Electric Current Usage in your home!
 
 Live URL: https://sajithlaldev.github.io/ShockRelief-App/
 
